@@ -1,3 +1,3 @@
 # code-
-this is a simple repository
-auther - Manjeet Maddheshiya 
+this is a simple repository.
+Auther - Manjeet Maddheshiya 
